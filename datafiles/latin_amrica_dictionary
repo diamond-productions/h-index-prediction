@@ -1,0 +1,38 @@
+instLst = ["Holon-Institute-of-Technology", "Tel Aviv University", "Hebrew University of Jerusalem", "Bar Ilan University", "Technion-Israel Institute of Technology", "The-Open-University-of-Israel", "Ben-Gurion-University-of-the-Negev", "Ariel-University", "University-of-Haifa", "Weizmann-Institute-of-Science", "Academic College of Tel Aviv-Yafo", "Shamoon-College-of-Engineering"]
+
+latin_america_list = ['Pontificia_Universidad_Catolica_de_Chile' , 'University-of-Sao-Paulo' , 'Los-Andes-University-Colombia' ,
+                     'University_of_Campinas' , 'Universidad_Nacional_Autonoma_de_Mexico' ,'University-of-Chile' , 'Universidad_de_Buenos_Aires', 
+                      'Federal-University-of-Rio-de-Janeiro2' , 'National_University_of_Colombia', 'Sao_Paulo_State_University' , 'Universidad_de_Concepcion' ,
+                      'University-of-Santiago-Chile']
+            
+# dictionary
+inst_rank = {
+    'Pontificia_Universidad_Catolica_de_Chile ' : 500 , 
+    'University-of-Sao-Paulo':101 ,
+    'Los-Andes-University-Colombia':101 ,
+    'University_of_Campinas':150 ,
+    'Universidad_Nacional_Autonoma_de_Mexico' : 405 ,
+    'University-of-Chile': 401 , 
+    'Universidad_de_Buenos_Aires' :67  , 
+    'Federal-University-of-Rio-de-Janeiro2' : 401 ,
+    'National_University_of_Colombia' : 801,
+    'Sao_Paulo_State_University' : 801 ,
+    'Universidad_de_Concepcion':801 ,
+    'University-of-Santiago-Chile' : 401
+}
+
+inst_nation = {
+    'Pontificia_Universidad_Catolica_de_Chile ' : "Chile" , 
+    'University-of-Sao-Paulo' : "Brazil" ,
+    'Los-Andes-University-Colombia':"Colombia" ,
+    'University_of_Campinas': "Brazil" ,
+    'Universidad_Nacional_Autonoma_de_Mexico' : "Mexico" ,
+    'University-of-Chile': "Chile" , 
+    'Universidad_de_Buenos_Aires' : "Argentina"  , 
+    'Federal-University-of-Rio-de-Janeiro2' : "Brazil",
+    'National_University_of_Colombia' : "Colombia",
+    'Sao_Paulo_State_University' : "Brazil",
+    'Universidad_de_Concepcion':"Chile" ,
+    'University-of-Santiago-Chile' : "Chile"
+    
+}
