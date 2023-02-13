@@ -1,0 +1,252 @@
+190.104.245.86	8080	Argentina Buenos Aires	
+
+2540 ms
+	HTTPS	High	2 minutes
+165.3.122.211	80	United States San Jose	
+
+800 ms
+	HTTP	High	2 minutes
+116.203.254.38	80	Germany Herford	
+
+500 ms
+	HTTP	High	2 minutes
+139.99.237.62	80	Australia Sydney	
+
+2160 ms
+	HTTP	High	2 minutes
+47.243.105.131	4780	Hong Kong Central	
+
+1380 ms
+	HTTP, HTTPS	High	2 minutes
+20.210.113.32	8123	Japan Tokyo	
+
+1280 ms
+	HTTPS	High	2 minutes
+203.198.207.253	80	Hong Kong Eastern	
+
+2000 ms
+	HTTP	High	2 minutes
+190.61.88.147	8080	Guatemala Guatemala City	
+
+800 ms
+	HTTP	Low	2 minutes
+157.254.193.139	80	Japan Tokyo	
+
+1300 ms
+	HTTP	High	2 minutes
+42.98.75.138	80	Hong Kong Central	
+
+1660 ms
+	HTTP	High	2 minutes
+174.70.1.210	8080	United States Lincoln	
+
+1960 ms
+	HTTP	High	2 minutes
+20.205.61.143	8123	Hong Kong Central	
+
+1140 ms
+	HTTPS	High	2 minutes
+218.250.67.85	80	Hong Kong Central	
+
+1580 ms
+	HTTP	High	2 minutes
+58.153.12.105	80	Hong Kong Central	
+
+1620 ms
+	HTTP	High	2 minutes
+203.176.221.40	80	Hong Kong 	
+
+1000 ms
+	HTTP	High	2 minutes
+20.111.54.16	80	France Paris	
+
+480 ms
+	HTTPS	High	2 minutes
+20.206.106.192	80	Brazil Campinas	
+
+1140 ms
+	HTTPS	High	2 minutes
+20.24.43.214	8123	Singapore Singapore	
+
+980 ms
+	HTTPS	High	2 minutes
+13.81.217.201	80	Netherlands Amsterdam	
+
+440 ms
+	HTTP	High	2 minutes
+13.95.173.197	80	Netherlands Amsterdam	
+
+940 ms
+	HTTP	Average	2 minutes
+104.223.135.178	10000	United States 	
+
+880 ms
+	HTTP, HTTPS	High	2 minutes
+82.117.252.100	80	United States Miami	
+
+960 ms
+	HTTP	High	2 minutes
+164.92.108.63	80	United States Santa Clara	
+
+740 ms
+	HTTP	High	2 minutes
+185.243.214.68	3128	Greece Athens	
+
+880 ms
+	HTTP	no	2 minutes
+212.107.31.118	80	Japan Tokyo	
+
+1420 ms
+	HTTP	High	2 minutes
+117.251.103.186	8080	India Hazratpur	
+
+1000 ms
+	HTTP, HTTPS, SOCKS4, SOCKS5	High	2 minutes
+66.29.154.103	3128	United States 	
+
+1500 ms
+	HTTP	High	2 minutes
+113.161.131.43	80	Vietnam Vũng Tàu	
+
+1640 ms
+	HTTP	Low	2 minutes
+31.186.239.244	8080	Netherlands Amsterdam	
+
+580 ms
+	HTTP	High	2 minutes
+172.177.221.87	80	United States Boydton	
+
+900 ms
+	HTTP	High	2 minutes
+112.120.41.92	80	Hong Kong Central	
+
+1140 ms
+	HTTP	High	2 minutes
+20.110.99.169	80	United States Boydton	
+
+900 ms
+	HTTP	High	2 minutes
+110.164.15.182	8080	Thailand 	
+
+920 ms
+	HTTP	High	2 minutes
+165.154.224.14	80	Hong Kong Central	
+
+1240 ms
+	HTTP	High	2 minutes
+95.56.254.139	3128	Kazakstan Almaty	
+
+1260 ms
+	HTTPS	High	2 minutes
+94.181.33.149	40840	Russian Federation Chelyabinsk	
+
+1160 ms
+	SOCKS4	High	2 minutes
+203.34.28.14	80	Virgin Islands, British 	
+
+580 ms
+	HTTP	no	2 minutes
+203.28.8.209	80	Cyprus 	
+
+600 ms
+	HTTP	no	2 minutes
+203.32.120.45	80	Virgin Islands, British 	
+
+400 ms
+	HTTP	no	2 minutes
+45.8.107.43	80	Curacao 	
+
+600 ms
+	HTTP	no	2 minutes
+203.23.106.89	80	Cyprus 	
+
+400 ms
+	HTTP	no	2 minutes
+185.162.231.178	80	Armenia 	
+
+400 ms
+	HTTP	no	2 minutes
+141.101.114.87	80		
+
+40 ms
+	HTTP	no	2 minutes
+185.162.231.143	80	Armenia 	
+
+180 ms
+	HTTP	no	2 minutes
+203.32.121.241	80	Virgin Islands, British 	
+
+200 ms
+	HTTP	no	2 minutes
+203.30.190.137	80	Belize 	
+
+200 ms
+	HTTP	no	2 minutes
+23.227.38.208	80	Canada 	
+
+20 ms
+	HTTP	no	2 minutes
+203.28.8.83	80	Cyprus 	
+
+40 ms
+	HTTP	no	2 minutes
+203.30.191.124	80	Belize 	
+
+200 ms
+	HTTP	no	2 minutes
+203.28.9.243	80	Cyprus 	
+
+200 ms
+	HTTP	no	2 minutes
+45.8.104.243	80	Curacao 	
+
+200 ms
+	HTTP	no	2 minutes
+185.162.231.163	80	Armenia 	
+
+20 ms
+	HTTP	no	2 minutes
+45.12.31.144	80	Romania 	
+
+40 ms
+	HTTP	no	2 minutes
+203.24.102.29	80	Virgin Islands, British 	
+
+20 ms
+	HTTP	no	2 minutes
+185.162.228.134	80	Armenia 	
+
+20 ms
+	HTTP	no	2 minutes
+203.30.190.115	80	Belize 	
+
+40 ms
+	HTTP	no	2 minutes
+23.227.38.81	80	Canada 	
+
+40 ms
+	HTTP	no	2 minutes
+203.23.104.128	80	Cyprus 	
+
+200 ms
+	HTTP	no	2 minutes
+203.23.104.122	80	Cyprus 	
+
+40 ms
+	HTTP	no	2 minutes
+203.24.108.38	80	Cyprus 	
+
+180 ms
+	HTTP	no	2 minutes
+203.13.32.243	80	Cyprus 	
+
+560 ms
+	HTTP	no	2 minutes
+45.12.30.221	80	Romania 	
+
+160 ms
+	HTTP	no	2 minutes
+203.23.104.43	80	Cyprus 	
+
+360 ms
+	HTTP	no	2 minutes
