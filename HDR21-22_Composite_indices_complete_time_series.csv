@@ -1,0 +1,196 @@
+country,hdicode,region,hdi_rank_2021
+Afghanistan,Low,SA,180
+Angola,Medium,SSA,148
+Albania,High,ECA,67
+Andorra,Very High,,40
+United Arab Emirates,Very High,AS,26
+Argentina,Very High,LAC,47
+Armenia,High,ECA,85
+Antigua and Barbuda,High,LAC,71
+Australia,Very High,,5
+Austria,Very High,,25
+Azerbaijan,High,ECA,91
+Burundi,Low,SSA,187
+Belgium,Very High,,13
+Benin,Low,SSA,166
+Burkina Faso,Low,SSA,184
+Bangladesh,Medium,SA,129
+Bulgaria,High,,68
+Bahrain,Very High,AS,35
+Bahamas,Very High,LAC,55
+Bosnia and Herzegovina,High,ECA,74
+Belarus,Very High,ECA,60
+Belize,Medium,LAC,123
+Bolivia (Plurinational State of),Medium,LAC,118
+Brazil,High,LAC,87
+Barbados,High,LAC,70
+Brunei Darussalam,Very High,EAP,51
+Bhutan,Medium,SA,127
+Botswana,Medium,SSA,117
+Central African Republic,Low,SSA,188
+Canada,Very High,,15
+Switzerland,Very High,,1
+Chile,Very High,LAC,42
+China,High,EAP,79
+Côte d'Ivoire,Medium,SSA,159
+Cameroon,Medium,SSA,151
+Congo (Democratic Republic of the),Low,SSA,179
+Congo,Medium,SSA,153
+Colombia,High,LAC,88
+Comoros,Medium,SSA,156
+Cabo Verde,Medium,SSA,128
+Costa Rica,Very High,LAC,58
+Cuba,High,LAC,83
+Cyprus,Very High,,29
+Czechia,Very High,,32
+Germany,Very High,,9
+Djibouti,Low,AS,171
+Dominica,High,LAC,102
+Denmark,Very High,,6
+Dominican Republic,High,LAC,80
+Algeria,High,AS,91
+Ecuador,High,LAC,95
+Egypt,High,AS,97
+Eritrea,Low,SSA,176
+Spain,Very High,,27
+Estonia,Very High,,31
+Ethiopia,Low,SSA,175
+Finland,Very High,,11
+Fiji,High,EAP,99
+France,Very High,,28
+Micronesia (Federated States of),Medium,EAP,134
+Gabon,High,SSA,112
+United Kingdom,Very High,,18
+Georgia,Very High,ECA,63
+Ghana,Medium,SSA,133
+Guinea,Low,SSA,182
+Gambia,Low,SSA,174
+Guinea-Bissau,Low,SSA,177
+Equatorial Guinea,Medium,SSA,145
+Greece,Very High,,33
+Grenada,High,LAC,68
+Guatemala,Medium,LAC,135
+Guyana,High,LAC,108
+"Hong Kong, China (SAR)",Very High,,4
+Honduras,Medium,LAC,137
+Croatia,Very High,,40
+Haiti,Low,LAC,163
+Hungary,Very High,,46
+Indonesia,High,EAP,114
+India,Medium,SA,132
+Ireland,Very High,,8
+Iran (Islamic Republic of),High,SA,76
+Iraq,Medium,AS,121
+Iceland,Very High,,3
+Israel,Very High,,22
+Italy,Very High,,30
+Jamaica,High,LAC,110
+Jordan,High,AS,102
+Japan,Very High,,19
+Kazakhstan,Very High,ECA,56
+Kenya,Medium,SSA,152
+Kyrgyzstan,Medium,ECA,118
+Cambodia,Medium,EAP,146
+Kiribati,Medium,EAP,136
+Saint Kitts and Nevis,High,LAC,75
+Korea (Republic of),Very High,,19
+Kuwait,Very High,AS,50
+Lao People's Democratic Republic,Medium,EAP,140
+Lebanon,High,AS,112
+Liberia,Low,SSA,178
+Libya,High,AS,104
+Saint Lucia,High,LAC,106
+Liechtenstein,Very High,,16
+Sri Lanka,High,SA,73
+Lesotho,Low,SSA,168
+Lithuania,Very High,,35
+Luxembourg,Very High,,17
+Latvia,Very High,,39
+Morocco,Medium,AS,123
+Monaco,,,
+Moldova (Republic of),High,ECA,80
+Madagascar,Low,SSA,173
+Maldives,High,SA,90
+Mexico,High,LAC,86
+Marshall Islands,Medium,EAP,131
+North Macedonia,High,ECA,78
+Mali,Low,SSA,186
+Malta,Very High,,23
+Myanmar,Medium,EAP,149
+Montenegro,Very High,ECA,49
+Mongolia,High,EAP,96
+Mozambique,Low,SSA,185
+Mauritania,Medium,SSA,158
+Mauritius,Very High,SSA,63
+Malawi,Low,SSA,169
+Malaysia,Very High,EAP,62
+Namibia,Medium,SSA,139
+Niger,Low,SSA,189
+Nigeria,Low,SSA,163
+Nicaragua,Medium,LAC,126
+Netherlands,Very High,,10
+Norway,Very High,,2
+Nepal,Medium,SA,143
+Nauru,,EAP,
+New Zealand,Very High,,13
+Oman,Very High,AS,54
+Pakistan,Low,SA,161
+Panama,Very High,LAC,61
+Peru,High,LAC,84
+Philippines,Medium,EAP,116
+Palau,High,EAP,80
+Papua New Guinea,Medium,EAP,156
+Poland,Very High,,34
+Korea (Democratic People's Rep. of),,EAP,
+Portugal,Very High,,38
+Paraguay,High,LAC,105
+"Palestine, State of",High,AS,106
+Qatar,Very High,AS,42
+Romania,Very High,,53
+Russian Federation,Very High,,52
+Rwanda,Low,SSA,165
+Saudi Arabia,Very High,AS,35
+Sudan,Low,AS,172
+Senegal,Low,SSA,170
+Singapore,Very High,EAP,12
+Solomon Islands,Medium,EAP,155
+Sierra Leone,Low,SSA,181
+El Salvador,Medium,LAC,125
+San Marino,Very High,,44
+Somalia,,AS,
+Serbia,Very High,ECA,63
+South Sudan,Low,SSA,191
+Sao Tome and Principe,Medium,SSA,138
+Suriname,High,LAC,99
+Slovakia,Very High,,45
+Slovenia,Very High,,23
+Sweden,Very High,,7
+Eswatini (Kingdom of),Medium,SSA,144
+Seychelles,High,SSA,72
+Syrian Arab Republic,Medium,AS,150
+Chad,Low,SSA,190
+Togo,Low,SSA,162
+Thailand,Very High,EAP,66
+Tajikistan,Medium,ECA,122
+Turkmenistan,High,ECA,91
+Timor-Leste,Medium,EAP,140
+Tonga,High,EAP,91
+Trinidad and Tobago,Very High,LAC,57
+Tunisia,High,AS,97
+Turkey,Very High,ECA,48
+Tuvalu,Medium,EAP,130
+Tanzania (United Republic of),Low,SSA,160
+Uganda,Low,SSA,166
+Ukraine,High,ECA,77
+Uruguay,Very High,LAC,58
+United States,Very High,,21
+Uzbekistan,High,ECA,101
+Saint Vincent and the Grenadines,High,LAC,89
+Venezuela (Bolivarian Republic of),Medium,LAC,120
+Viet Nam,High,EAP,115
+Vanuatu,Medium,EAP,140
+Samoa,High,EAP,111
+Yemen,Low,AS,183
+South Africa,High,SSA,109
+Zambia,Medium,SSA,154
+Zimbabwe,Medium,SSA,146
